@@ -1,0 +1,679 @@
+Einstein Bros. Bagels - MCV:Bagel	:	1.29	:	270	:	380	:	0
+Einstein Bros. Bagels - MCV:Bagel + Shmear:  2.79  : 390: 470 : 0
+Einstein Bros. Bagels - MCV:Bagel + Nutella:  2.79  : 490: 550 : 0
+Einstein Bros. Bagels - MCV:Bagel + Hummus:  2.79  : 360: 420 : 0
+Einstein Bros. Bagels - MCV:Bagel + Peanut Butter:  2.79  : 430: 490 : 0
+Einstein Bros. Bagels - MCV:Bagel + PB&J:  2.79  : 500: 560 : 0
+Einstein Bros. Bagels - MCV:Bagel + Butter Blend:  1.89  : 440: 500 : 0
+Einstein Bros. Bagels - MCV:Bagel + Honey Butter:  1.89  : 410: 470 : 0
+Einstein Bros. Bagels - MCV:Bagel + Power Protein:  .69  : 350: 350 : 0
+Einstein Bros. Bagels - MCV:Baker's Dozen Box:  14.99  : 4940: 4940 : 0
+Einstein Bros. Bagels - MCV:Half Dozen Box :  10.09  : 2470: 2470 : 0
+Einstein Bros. Bagels - MCV:Tub of Shmear:  3.89  : 520: 600 : 0
+Einstein Bros. Bagels - MCV:Nova Lox Sandwich:  6.99  : 480: 480 : 0
+Einstein Bros. Bagels - MCV:Tasty Turkey Sandwich:  6.99: 500: 500 : 0
+Einstein Bros. Bagels - MCV:Turkey, Bacon, & Avocado Sandwich:  6.99: 650: 650 : 0
+Einstein Bros. Bagels - MCV:Hummus Veg Out Sandwich:  6.99: 420: 420 : 0
+Einstein Bros. Bagels - MCV:Turkey Club Mex Wrap Sandwich:  6.99: 720: 720 : 0
+Einstein Bros. Bagels - MCV:Turkey & Cheddar Sandwich:  6.59  : 640: 760 : 0
+Einstein Bros. Bagels - MCV:Harvest Chicken Salad :  6.59: 530: 650 : 0
+Einstein Bros. Bagels - MCV:Albacore Tuna Salad :  6.59: 580: 700 : 0
+Einstein Bros. Bagels - MCV:Ham & Swiss Sandwich:  6.59: 640: 760 : 0
+Einstein Bros. Bagels - MCV:BBQ Chicken Tostini Sandwich:  7.69  : 540: 540 : 0
+Einstein Bros. Bagels - MCV:Buffalo Chicken & Bacon Tostini Sandwich:  7.69: 630: 630 : 0
+Einstein Bros. Bagels - MCV:Italian Chicken Tostini Sandwich:  7.69: 710: 710 : 0
+Einstein Bros. Bagels - MCV:Turkey Club Tostini Sandwich:  7.69: 700: 700 : 0
+Einstein Bros. Bagels - MCV:Thintastic Buffalo Chicken Sandwich:  4.99: 430: 430 : 0
+Einstein Bros. Bagels - MCV:Cheese Pizza Bagel:  5.59  : 440: 440 : 0
+Einstein Bros. Bagels - MCV:Pepperoni Pizza Bagel:  5.79  : 530: 530 : 0
+Einstein Bros. Bagels - MCV:Plain Bagel Dog:  5.09  : 530: 530 : 0
+Einstein Bros. Bagels - MCV:Asiago Bagel Dog:  5.09  : 580: 580 : 0
+Einstein Bros. Bagels - MCV:Applewood Bacon & Cheddar Egg Sandwich:  4.99  : 520: 520 : 0
+Einstein Bros. Bagels - MCV:Turkey-Sausage & Cheddar Egg Sandwich:  4.99: 540: 540 : 0
+Einstein Bros. Bagels - MCV:Ham & Swiss Egg Sandwich:  4.99: 490: 490 : 0
+Einstein Bros. Bagels - MCV:Cheddar Cheese Egg Sandwich:  4.69: 470: 470 : 0
+Einstein Bros. Bagels - MCV:Farmhouse Sandwich:  5.49  : 570: 570 : 0
+Einstein Bros. Bagels - MCV:French Toast:  4.99  : 610: 610 : 0
+Einstein Bros. Bagels - MCV:2-Egg Santa Fe Wrap:  4.99  : 710: 710 : 0
+Einstein Bros. Bagels - MCV:Asparagus & Mushroom Egg White Sandwich:  4.99  : 390: 390 : 0
+Einstein Bros. Bagels - MCV:Southwest Egg White Sandwich:  4.99  : 400: 400 : 0
+Einstein Bros. Bagels - MCV:Spinach, Mushroom, and Swiss Sanwich : 4.99  : 490: 490 : 0
+Einstein Bros. Bagels - MCV:Vanilla Hazelnut Latte Medium: 4.09  :  220:  350 : 0
+Einstein Bros. Bagels - MCV:Vanilla Hazelnut Latte Large: 4.59  :300:500 : 0
+Einstein Bros. Bagels - MCV:Vanilla Latte Medium: 3.99  :  210:  310 : 0
+Einstein Bros. Bagels - MCV:Vanilla Latte Large: 4.29  :270:400 : 0
+Einstein Bros. Bagels - MCV:White Chocolate Mocha Medium: 4.29  :  360:  420 : 0
+Einstein Bros. Bagels - MCV:White Chocolate Mocha Large: 4.59  :440:680 : 0
+Einstein Bros. Bagels - MCV:Caramel Macchiato Medium: 4.09  :  360:  420 : 0
+Einstein Bros. Bagels - MCV:Caramel Macchiato Large: 4.59  :440:700 : 0
+Einstein Bros. Bagels - MCV:Hazelnut Mocha Medium: 4.29  :  290:  350 : 0
+Einstein Bros. Bagels - MCV:Hazelnut Mocha Large: 4.59  :400:530 : 0
+Einstein Bros. Bagels - MCV:Latte Medium: 3.49  :  140:  300 : 0
+Einstein Bros. Bagels - MCV:Latte Large: 3.99  :170:410 : 0
+Einstein Bros. Bagels - MCV:Mocha Medium: 3.79  :  350:  410 : 0
+Einstein Bros. Bagels - MCV:Mocha Large: 4.09  :430:680 : 0
+Einstein Bros. Bagels - MCV:Oregon Chai Tea Latte Medium: 3.49  :  240:  340 : 0
+Einstein Bros. Bagels - MCV:Oregon Chai Tea Latte Large: 3.99  :310:460 : 0
+Einstein Bros. Bagels - MCV:Cappucino Medium: 3.49  :  120 :  300 : 0
+Einstein Bros. Bagels - MCV:Cappucino Large: 3.99  :160:410 : 0
+Einstein Bros. Bagels - MCV:Strawberry Banana : 3.89 : 400: 400 : 0
+Einstein Bros. Bagels - MCV:Mixed Berry :3.89 : 390: 390 : 0
+Einstein Bros. Bagels - MCV:Coffe Medium: 1.99  :  5:  5 : 0
+Einstein Bros. Bagels - MCV:Coffee Large: 2.29  :  5:  5 : 0
+Einstein Bros. Bagels - MCV:Iced Coffee Medium: 1.99  :  5:  5 : 0
+Einstein Bros. Bagels - MCV:Iced Coffee Large: 2.29  :  5:  5 : 0
+Einstein Bros. Bagels - MCV:Hot Tea Medium: 1.99  :  5:  5 : 0
+Einstein Bros. Bagels - MCV:Hot Tea Large: 2.29  :  5:  5 : 0
+Einstein Bros. Bagels - MCV:Iced Tea Medium: 1.99  :  5:  35 : 0
+Einstein Bros. Bagels - MCV:Iced Tea Large: 2.29  : 5: 50 : 0
+Einstein Bros. Bagels - MCV:Hot Cocoa Medium: 3.49  :  350:  350 : 0
+Einstein Bros. Bagels - MCV:Hot Cocoa Large: 3.99  :  430:  430 : 0
+Einstein Bros. Bagels - MCV:Foundtain Drink Medium: 1.99  :  0:  230 : 0
+Einstein Bros. Bagels - MCV:Foundtain Drink Large: 2.29  :  0:  350 : 0
+Wendy's: Daves Single Cheeseburger:4.59: 420 : 570 :0
+Wendy's: Daves Single Cheeseburger Combo:4.69: 590 : 1081 :0
+Wendy's: Daves Double Cheeseburger:5.59: 660: 810 :0
+Wendy's: Daves Double Cheeseburger Combo:7.69: 830 : 1321 :0
+Wendy's: Daves Triple Cheeseburger:6.59: 900 : 1090 :0
+Wendy's: Daves Triple Cheeseburger Combo:8.69: 1070 : 1601 :0
+Wendy's: Baconator:6.59: 800: 950 :0
+Wendy's: Baconator Combo:8.69: 970 : 1461 :0
+Wendy's: Son of Baconator:4.49: 570: 630 :0
+Wendy's: Son of Baconator Combo:7.49: 470 : 1141 :0
+Wendy's: Spicy Chicken Sandwich:4.49: 450 : 510:0
+Wendy's: Spicy Chicken Sandwich Combo:6.99: 620 : 1021 :0
+Wendy's: Homestyle Chicken Sandwich:4.99: 450 : 520 :0
+Wendy's: Homestyle Chicken Sandwich Combo:6.99: 620 : 1031 :0
+Wendy's: Asiago Ranch Chicken Club Sandwhich:5.99: 600 : 670 :0
+Wendy's: Asiago Ranch Chicken Club Sandwhich Combo:7.99: 770 : 1181 :0
+Wendy's: Grilled Chicken Sandwich:4.99: 290 : 360 :0
+Wendy's: Grilled Chicken Sandwich Combo:6.99: 460 : 871 :0
+Wendy's: 10 Piece Chicken Nuggets Combo:5.59: 620 :961:0
+Wendy's: Taco Salad Half:4.29: 470 : 470 :0
+Wendy's: Taco Salad Combo Full:6.29: 830 : 1171 :0
+Wendy's: Power Mediterranean Chicken Half:4.79: 240 : 240 :0
+Wendy's: Power Mediterranean Chicken Full:6.79: 450 : 450 :0
+Wendy's: Apple Pecan Chicken Half:4.79: 340 : 340 :0
+Wendy's: Apple Pecan Chicken Full:6.79: 570 :570  :0
+Wendy's: BBQ Ranch Chicken Half:4.79: 300 : 300 :0
+Wendy's: BBQ Ranch Chicken Full:6.79: 590 : 590 :0
+Wendy's: Spicy Chicken Caesar Half:4.79: 410 : 410 :0
+Wendy's: Spicy Chicken Caesar Full:6.79: 720 : 720 :0
+Wendy's: Add Medium Fries and Drink:.89: 170 : 390 :0
+Wendy's: Add Large Fries and Drink:1.49: 201 : 511 :0
+Wendy's: Blueberry Pineapple Fruitea Chillers Small:2.39: 170 : 170 :0
+Wendy's: Blueberry Pineapple Fruitea Chillers Medium:2.89: 300 : 300 :0
+Wendy's: Blueberry Pineapple Fruitea Chillers Large:3.39: 330 : 330 :0
+Wendy's: Mango Peach Fruitea Chillers Small:2.39: 170 :170  :0
+Wendy's: Mango Peach Fruitea Chillers Medium:2.89: 300 : 300 :0
+Wendy's: Mango Peach Fruitea Chillers Large:3.39: 320 : 320 :0
+Wendy's: Honest Tropical Green Tea Small:1.79: 60 : 60 :0
+Wendy's: Honest Tropical Green Tea Medium:2.29: 120 : 120 :0
+Wendy's: Honest Tropical Green Tea Large:2.69: 130 : 130 :0
+Wendy's: All-Natural Lemonade Small:2.39: 180 : 180 :0
+Wendy's: All-Natural Lemonade Medium:2.69: 330 : 330 :0
+Wendy's: All-Natural Lemonade Large:2.89: 380 : 380 :0
+Wendy's: Strawberry Lemonade Small:2.79: 230 : 230 :0
+Wendy's: Strawberry Lemonade Medium:3.09: 400 : 400 :0
+Wendy's: Strawberry Lemonade Large:3.29: 440 : 440 :0
+Wendy's: Soft Drink Small:1.89: 0 : 220 :0
+Wendy's: Soft Drink Medium:2.29: 0 : 360 :0
+Wendy's: Soft Drink Large:2.49: 0 : 450 :0
+Wendy's: Iced Tea Small:1.89: 0 : 160 :0
+Wendy's: Iced Tea Medium:2.29: 0 : 180 :0
+Wendy's: Iced Tea Large:2.49: 0 : 200 :0
+Wendy's: Bottled Water:1.69: 0 : 0 :0
+Wendy's: Hot Coffee Regular:1.99: 0 : 0 :0
+Wendy's: Hot Coffee Large:2.29: 0 : 0 :0
+Wendy's: Hot Tea:1.19: 0 : 0 :0
+Wendy's: Grilled Chicken Wrap:3.89: 230 : 270 :0
+Wendy's: Hamburger:3.79: 240 : 240 :0
+Wendy's: Baconator Fries:1.99: 490 : 490 :0
+Wendy's: Natural-Cut Fries Small:1.89: 320 : 320 :0
+Wendy's: Natural-Cut Fries Medium:2.29: 420 : 420 :0
+Wendy's: Natural-Cut Fries Large:2.59: 530 : 530 :0
+Wendy's: Chili Small:2.19: 170 : 170 :0
+Wendy's: Chili Medium:2.79: 250 : 250 :0
+Wendy's: Caesar Side Salad:1.89: 60 : 250 :0
+Wendy's: Sour Cream and Chives Baked Potato:1.99: 310 : 310 :0
+Wendy's: Garden Side Salad:1.89: 25 : 210 :0
+Wendy's: Chocolate or Vanilaa Frosty Small:1.69: 340 : 340 :0
+Wendy's: Chocolate or Vanilaa Frosty Medium:2.19: 460 :460  :0
+Wendy's: Chocolate or Vanilaa Frosty Large:2.29: 570 : 570 :0
+Wendy's: Jr. Cheeseburger:1.39: 280 : 280 :0
+Wendy's: Jr. Cheeseburger Deluxe:1.79: 330 : 330 :0
+Wendy's: Jr. Bacon Cheeseburger:1.99: 280 : 380 :0
+Wendy's: Double Stack:2.29: 340 : 390 :0
+Wendy's: 4 Piece Crispy Chicken Nuggets:1.19: 180 : 180 :0
+Wendy's: 6 Piece Crispy Chicken Nuggets:1.89: 270 : 270 :0
+Wendy's: Chicken Go Wrap:1.99: 270 : 270 :0
+Wendy's: Crispy Chicken Sandwich:1.19: 350 : 350 :0
+Wendy's: Premium Hot Tea (English Breakfast or Lemongrass Green):.99: 0 : 0 :0
+Wendy's: Iced Coffee (Mocha, Caramel, Vanilla, Skinny Vanilla) Small:1.89: 70 : 170 :0
+Wendy's: Iced Coffee (Mocha, Caramel, Vanilla, Skinny Vanilla) Medium:2.49: 100 : 250 :0
+Jonah's: Rotisserie Chicken:6.59:541:541 : 0
+Jonah's: Smoked Pork:6.29:222:222 : 0
+Jonah's: Smoked Brisket:6.99:208:208 : 0
+Jonah's: Vegetable Plate:5.29:315:315 : 0
+Jonah's: Homestyle Mashed Potatoes:2.29:122:122 : 0
+Jonah's: Vegetarian Baked Beans:2.29:153:153 : 0
+Jonah's: Vegetable Medley:2.29:43:43 : 0
+Jonah's: Bavarian Cabbage:2.29:124:124 : 0
+Jonah's: Corn Muffin:2.29:235:235 : 0
+Jonah's: Chicken Noodle:3.49:108:108 : 0
+Jonah's: Roasted Corn Chowder:3.49:194:194 : 0
+Jonah's: Cucumber Tomato:2.29:44:44 : 0
+Jonah's: Greek Pasta Salad:2.29:131:131 : 0
+Jonah's: Patato Salad:2.29:217:217 : 0
+Jonah's: Fruit Salad:2.29:36:36 : 0
+Jonah's: Smokehouse Feature:8.30:0:0 : 0
+Jonah's: Large Salad Bowl:8.30:0:0 : 0
+Jonah's: Soup and Salad Combo:8.30:0:0 : 0
+Jonah's: Customizable sandwich:6.59:275:842 : 0
+Jonah's: Cheese Pizza Slice:2.09:250:250 : 0
+Jonah's: Margherita Pizza Slice:2.19:245:245 : 0
+Jonah's: Pepperoni Pizza Slice:2.69:278:278 : 0
+Jonah's: 2 Slices of Pizza:8.30:500:500 : 0
+Jonah's: Chicken, Bacon and Pesto Pizza Slice:2.29:437:437 : 0
+Jonah's: Molten Chocolate Cake:4.29:290:290 : 0
+Jonah's: Chicken Stir Fry:6.99:264:264 : 0
+Jonah's: Tofu Stir Fry:6.99: 220: 220 : 0
+Jonah's: Vegetable Stir Fry:6.99: 122: 122 : 0
+Jonah's: Beef Stir Fry:6.99:210:210 : 0
+Jonah's: Tavern Burger:6.59:612:612 : 0
+Jonah's: Grilled Chicken:6.59:372:372 : 0
+Jonah's: Burger:6.59:379:379 : 0
+Jonah's: Veggie Burger:6.59:133:133 : 0
+Jonah's: Chicken Tenders:6.59:542:542 : 0
+Jonah's: Philly Cheesesteak:6.59:405:405 : 0
+Jonah's: Wings:7.99:145:145 : 0
+Jonah's: Onion Rings:1.89:123:123 : 0
+Jonah's: Fries:1.79:208:208 : 0
+Jonah's: Tots:1.79:311:311 : 0
+Bleecker St.: Egg and Cheese Bagel Sandwich :4.29:279:279 : 0
+Bleecker St.: Ham, Egg and Cheese Bagel Sandwich:4.79:329:329 : 0
+Bleecker St.: Bacon, Egg and Cheese Bagel Sandwich:4.79:438:438 : 0
+Bleecker St.: Sausauge, Egg and Cheese Bagel Sandwich:4.79:368:368 : 0
+Bleecker St.: Egg and Cheese Croissant Sandwich:4.39:487:487 : 0
+Bleecker St.: Ham, Egg and Cheese Croissant Sandwich:4.79:549:549 : 0
+Bleecker St.: Bacon, Egg and Cheese Croissant Sandwich:4.79:708:708 : 0
+Bleecker St.: Sausauge, Egg and Cheese Croissant Sandwich:4.79:453:453 : 0
+Bleecker St.: Custom Salad:6.99:145:771 : 0
+Bleecker St.: Extra Protein on Salad:1.59:70:220 : 0
+Bleecker St.: Chicken Tortilla Soup:3.39:130:130 : 0
+Bleecker St.: Vegetarian Chili Soup (Monday):3.39:190:190 : 0
+Bleecker St.: Broccoli Cheese Soup (Tuesday):3.39:300:300 : 0
+Bleecker St.: Very Veggie Soup (Wednesday):3.39:160:160 : 0
+Bleecker St.: Tomato Florentine Soup (Thursday):3.39:180:180 : 0
+Bleecker St.: Clam Chowder (Friday):3.39:180:180 : 0
+Bleecker St.: Bleecker St. Combo:8.59:304:743 : 0
+Bleecker St.: Three Cheese Flatbread:1.69:239:239 : 0
+Bleecker St.: Baby Carrots:1.19:25:25 : 0
+Bleecker St.: Potato Chips:1.19:120:120 : 0
+Bleecker St.: Whole Fruit:1.19:62:62 : 0
+Bleecker St.: Yogurt:1.19:80:80 : 0
+Bleecker St.: Chocolate Chunk Cookie:1.69:390:390 : 0
+Bleecker St.: Peanut Butter Cookies:1.69:164:164 : 0
+Bleecker St.: Oatmeal Raisin Cookie:1.69:155:155 : 0
+Bleecker St.: Banana Nut Muffin:2.79:458:458 : 0
+Bleecker St.: Chocolate Chip Muffin:2.79:420:420 : 0
+Bleecker St.: Blueberry Muffin:2.79:410:410 : 0
+Bleecker St.: Maple Pecan Danish:2.89:533:533 : 0
+Bleecker St.: Raspberry Danish:2.89:338:338 : 0
+Bleecker St.: Cheese Danish:2.89:309:309 : 0
+Bleecker St.: Chocolate Cupcake:1.59:204:204 : 0
+Bleecker St.: Yellow Cupcake:1.59:155:155 : 0
+Bleecker St.: Cinnamon Scone:2.39:468:468 : 0
+Bleecker St.: Blueberry Scone:2.39:468:468 : 0
+Bleecker St.: Croissant:2.49:323:323 : 0
+Bleecker St.: Bagel:1.89:270:270 : 0
+Bleecker St.: Cinnamon Roll:2.29:345:345 : 0
+Croutons Salads & Wraps: Create your own salad 	:	7.65	:	180	:	1270 : 0
+Croutons Salads & Wraps: Create your own wrap	:	7.65	:	180	:	1270 : 0
+Croutons Salads & Wraps: Sesame ginger salad or wrap	:	7.65	:	584	:584 : 0
+Croutons Salads & Wraps: Classic croutons	:	7.65	:	619	:619 : 0
+Croutons Salads & Wraps: Buffalo blue cheese grilled chicken salad:	7.65	:334:334 : 0
+Croutons Salads & Wraps: Buffalo blue cheese grilled chicken wrap:	7.65	:606:606 : 0
+Croutons Salads & Wraps: Maki roll(9 pieces)	:	8.30	:	400: 400 : 0
+Croutons Salads & Wraps: Maui bento box	:	8.30	:	600: 600 : 0
+Raising Canes: The Box Combo	:	8.29	:	1125 : 1125 : 0
+Raising Canes: The Caniac Combo 		:	11.49	:	1206: 1206 : 0
+Raising Canes: The Sandwich Combo	:	7.29	:	1008: 1008 : 0
+Raising Canes: The 3 Finger combo		:	7.29	:	965:965 : 0
+Raising Canes: 25 Fingers	:	29.99	:	3175:3175 : 0
+Raising Canes: 50 Fingers	:	52.99	:	6350:6350 : 0
+Raising Canes: 75 Fingers	:	74.99	:	9525:9525 : 0
+Raising Canes: 100 Fingers	:	92.99	:	12,700: 12,700 : 0
+Raising Canes: Chicken Finger	:	1.29	:	127: 127 : 0
+Raising Canes: Cane’s Sauce	:	0.39	:	173:173 : 0
+Raising Canes: Crinkle-cut Fries	:	1.69	:	291:291 : 0
+Raising Canes: Texas Toast	:	1.09	:	120:120 : 0
+Raising Canes: Coleslaw	:	0.99	:	33:33 : 0
+iHop: Original Buttermilk	:	4.39	:	630: 630 : 0
+iHop: Chocolate Chip	:	5.89	:	760 :	760 : 0
+iHop: Fruit Topped Pancakes	:	5.89	:	660: 730 : 0
+iHop: Egg and Cheese Biscuit	:	2.99	:	510:510 : 0
+iHop: Bacon,Egg, and Cheese Biscuit	:	3.29	:	590: 590 : 0
+iHop: Sausage, Egg, and Cheese Biscuit	:	3.29	:	680:680 : 0
+iHop: Ham, Egg, and Cheese Biscuit	:	3.29	:	570:570 : 0
+iHop: Chicken Biscuit	:	3.29	:	580:580 : 0
+iHop: Veggies, Egg, and Cheese Burrito	:	5.59	:940 : 940 : 0
+iHop: Bacon, Egg, and Cheese Burrito		:	5.99	:	870: 870 : 0
+iHop: Sausage, Egg, and Cheese Burrito	:	5.99	:	960:960 : 0
+iHop: Cheeseburger	:	6.49	:	1010: 1010 : 0
+iHop: Bacon Cheeseburger	:	7.49	:	1100: 1100 : 0
+iHop: Mega Monster Cheeseburger	:	8.99	:	1460: 1460 : 0
+iHop: Strawberry Smoothie	:	2.69	:	290: 290 : 0
+iHop: Blueberry Smoothie		:	2.69	:	300: 300 : 0
+iHop: Philly Cheesesteak		:	8.99	:	1140:1140 : 0
+iHop: Grilled Roasted Turkey	:	6.49	:	880:880 : 0
+iHop: BLT	:	6.79	:	790:790	: 0
+iHop: Steak Quesadilla	:	7.29	:	830:830 : 0
+iHop: Chicken Quesadilla	:	7.99	:	860:860 : 0
+iHop: Whole lotta tots	:	5.99	:	710:710 : 0
+iHop: French Fries		:	1.99	:	320:320 : 0
+iHop: Onion Rings		:	2.29	:	500:500 : 0
+iHop: Yogurt Parfait	:	3.49	:	660: 680 : 0
+iHop: IHOP Sampler	:	7.99	:	1300:1300 : 0
+iHop: Chicken wings 5-pc	:	4.99	:	700:700 : 0
+iHop: Chicken Wings 10-pc	:	7.99	:	1130:1130 : 0
+iHop: Express Sampler	:	7.29	:	1130:1130 : 0
+iHop: Stuffed French Toast	:	7.39	:1330:	1430 : 0
+iHop: Split Decision	:	7.99	:	1100:1100 : 0
+iHop: Big Steak Omelette	:	7.79	:	1250:1250 : 0
+iHop: Express Quick	:	6.29	:	900:900 : 0
+iHop: Rooty Tooty Fresh’n Fruity		:	6.99	:960:	970 : 0
+iHop: French Toast Combo	:	6.29	:910: 	1000 : 0
+iHop: Create Your Own Omelette		:	7.29	:	720: 1305 : 0
+Starbucks: Tall Iced Cinnamon Almondmilk Macchiato 	:	4.25	:130:130 : 0
+Starbucks: Grande Iced Cinnamon Almondmilk Macchiato 	:	4.95	:190:190 : 0
+Starbucks: Venti Iced Cinnamon Almondmilk Macchiato 	:	5.25	:270:270 : 0
+Starbucks: Tall Coconut milk Mocha Macchiato	:	4.25	:	170:170 : 0
+Starbucks: Grande Coconut milk Mocha Macchiato	:	4.95	:200:200 : 0
+Starbucks: Venti Coconut milk Mocha Macchiato	:	5.25	:280:280 : 0
+Starbucks: Tall Cascara Latte	:	4.25	:	190:190 : 0
+Starbucks: Grande Cascara Latte	:	4.95	:	240:240 : 0
+Starbucks: Venti Cascara Latte	:	5.25	:	310:310 : 0
+Starbucks: Tall Caramel Macchiato	:	3.95	:	190:190 : 0
+Starbucks: Grande Caramel Macchiato	:	4.65	:	250:250 : 0
+Starbucks: Venti Caramel Macchiato 		:	4.95	:	310:310 : 0
+Starbucks: Tall Latte Macchiato		:	3.95	:	170:170 : 0
+Starbucks: Tall White Chocolate Mocha	:	3.95	:	340:340	: 0
+Starbucks: Grande White Chocolate Mocha	:	4.65	:	430:430 : 0
+Starbucks: Venti White Chocolate Mocha	:	4.95	:	530:530 : 0
+Starbucks: Tall Caffe Mocha		:	3.75	:	290:290 : 0
+Starbucks: Grande Caffe Mocha	:	4.45	:	360:360 : 0
+Starbucks: Venti Caffe Mocha		:	4.75	:	450:450 : 0
+Starbucks: Tall Flat White	:	3.95	:	170:170 : 0
+Starbucks: Tall Caffe Latte	:	3.75	:	150:150 : 0
+Starbucks: Grande Caffe Latte	:	3.95	:	190:190 : 0
+Starbucks: Venti Caffe Latte	:	4.25	:	240:240 : 0
+Starbucks: Tall Cappuccino	:	3.25	:	90:90 : 0
+Starbucks: Grande Cappuccino		:	3.95	:	120:120 : 0
+Starbucks: Venti Cappuccino	:	4.25	:	150:150 : 0
+Starbucks: Tall Caffe Americano	:	2.45	:	10:10 : 0
+Starbucks: Grande Caffe Americano	:	2.95	:	15:15 : 0
+Starbucks: Venti Caffe Americano	:	3.25	:	25:25 : 0
+Starbucks: Tall Hot Chocolate	:	2.95	:	320:320 : 0
+Starbucks: Grande Hot Chocolate	:	3.25	:	400:400 : 0
+Starbucks: Venti Hot Chocolate		:	3.45	:	500:500 : 0
+Starbucks: Grande White Tea		:	2.45	:	45:45 : 0
+Starbucks: Tall Shaken Iced Tea		:	1.95	:	30:30 : 0
+Starbucks: Grande Shaken Iced Tea	:	2.45	:	45:45 : 0
+Starbucks: Venti Shaken Iced Tea	:	2.95	:	60:60 : 0
+Starbucks: Tall Shaken Iced Tea Lemonade	:	2.75	:	70:70 : 0
+Starbucks: Grande Shaken Iced Tea Lemonade	:	3.25	:	90:90 : 0
+Starbucks: Venti Shaken Iced Tea Lemonade	:	3.75	:	130:130 : 0
+Starbucks: Tall Mango Black Tea Lemonade 	:	2.95	:	90:90 : 0
+Starbucks: Grande Mango Black Tea Lemonade	:	3.45	:	120:120 : 0
+Starbucks: Venti Mango Black Tea Lemonade	:	3.95	:	190:190 : 0
+Starbucks: Tall Peach Green Tea Lemonade	:	2.95	:	90:90 : 0
+Starbucks: Grande Peach Green Tea Lemonade	:	3.45	:	120:120 : 0
+Starbucks: Venti Peach Grande Tea Lemonade	:	3.95	:	190:190 : 0
+Starbucks: Tall Lightly Sweet Chai Tea Latte	:	3.65	:	140:140 : 0
+Starbucks: Grande Lightly Sweet Chai Tea Latte	:	4.25	:	190:190 : 0
+Starbucks: Venti Lightly Sweet Chai Tea Latte	:	4.45	:	240:240 : 0
+Starbucks: Tall Classic Chai Tea Latte	:	3.65	:	190:190 : 0
+Starbucks: Grande Classic Chai Tea Latte	:	4.25	:	240:240 : 0
+Starbucks: Venti Classic Chai Tea Latte	:	4.45	:	310:310 : 0
+Starbucks: Tall Green Tea Latte	:	3.65	:	190:190 : 0
+Starbucks: Grande Green Tea Latte	:	4.25	:	240:240 : 0
+Starbucks: Venti Grande Tea Latte	:	4.45	:	320:320 : 0
+Starbucks: Tall Full Leaf	:	2.25	:	0: 0 : 0
+Starbucks: Grande Full Leaf	:	2.45	:	0: 0 : 0
+Starbucks: Venti Full Leaf		:	2.65	:	0 : 0 : 0
+Starbucks: Tall Strawberry Acal	:	3.25	:	80: 80 : 0
+Starbucks: Grande Strawberry Acal	:	3.75	:	90: 90 : 0
+Starbucks: Venti Strawberry Acal	:	4.25	:	130: 130 : 0
+Starbucks: Tall Very Berry Hibiscus	:	3.25	:	60: 60 : 0
+Starbucks: Grande Very Berry Hibiscus	:	3.75	:	70: 70 : 0
+Starbucks: Venti Very Berry Hibiscus	:	4.25	:	100: 100 : 0
+Starbucks: Tall Nariño 70 Cold Brew	:	2.95	:	0: 0 : 0
+Starbucks: Grande Nariño 70 Cold Brew	:	3.45	:	5: 5 : 0
+Starbucks: Venti Nariño 70 Cold Brew	:	3.75	:	5 : 5 : 0
+Starbucks: Tall Vanilla Sweet Cream Cold Brew	:	3.25	:	100: 100 : 0
+Starbucks: Grande Vanilla Sweet Cream Cold Brew	:	3.75	:	110: 110 : 0
+Starbucks: Venti Vanilla Sweet Cream Cold Brew	:	3.95	:	200: 200 : 0
+Starbucks: Tall Iced Coffee	:	2.45	:	60: 60 : 0
+Starbucks: Grande Iced Coffee	:	2.95	:	90: 90 : 0
+Starbucks: Venti Iced Coffee	:	3.45	:	130:130 : 0
+Starbucks: Tall Freshly Brewed Coffee	:	1.95	:	5: 5 : 0
+Starbucks: Grande Freshly Brewed Coffee	:	2.45	:	5: 5 : 0
+Starbucks: Venti Freshly Brewed Coffee	:	2.65	:	5:5  : 0
+Starbucks: Tall Caramel Frappuccino	:	4.25	:	300: 300 : 0
+Starbucks: Grande Caramel Frappuccino	:	4.75	:	420:420 : 0
+Starbucks: Venti Caramel Frappuccino	:	5.25	:	510:510 : 0
+Starbucks: Tall Mocha Frappuccino		:	4.25	:	290 : 290 : 0
+Starbucks: Grande Mocha Frappuccino	:	4.75	:	410:410 : 0
+Starbucks: Venti Mocha Frappuccino	:	5.25	:	520:520	: 0
+Starbucks: Tall Coffee Frappuccino	:	3.75	:	180:180 : 0
+Starbucks: Grande Coffee Frappuccino	:	4.25	:	240:240 : 0
+Starbucks: Venti Coffee Frappuccino	:	4.75	:	350:350 : 0
+Starbucks: Tall Java Chip Frappuccino	:	4.25	:	340:340 : 0
+Starbucks: Grande Java Chip Frappuccino	:	4.75	:	470:470 : 0
+Starbucks: Venti Java Chip Frappuccino	:	5.25	:	600:600 : 0
+Starbucks: Tall Vanilla Bean Crème Frappuccino	:	3.75	:	280:280 : 0
+Starbucks: Grande Vanilla Bean Crème Frappuccino	:	4.25	:	400:400 : 0
+Starbucks: Venti Vanilla Bean Crème Frappuccino	:	3.75	:	280:280 : 0
+Starbucks: Tall Double Chocolaty Chip Crème Frappuccino	:	4.25	:	310:310 : 0
+Starbucks: Grande Double Chocolaty Chip Crème Frappuccino	:4.75	:	420:420 : 0
+Starbucks: Venti Double Chocolaty Chip Crème Frappuccino	:	5.25	:	540:540 : 0
+Starbucks: Tall Strawberries & Crème Frappuccino	:	4.25	:	270:270 : 0
+Starbucks: Grande Strawberries & Crème Frappuccino	:	4.75	:	370: 370 : 0
+Starbucks: Venti Strawberries & Crème Frappuccino	:	5.25	:	460: 460 : 0
+Starbucks: Tall Green Tea Crème Frappuccino	:	4.25	:	320: 320 : 0
+Starbucks: Grande Green Tea Crème Frappuccino	:	4.75	:	430: 430 : 0
+Starbucks: Venti Green Tea Crème Frappuccino	:	5.25	:	550: 550 : 0
+Starbucks: Strawberry Banana Smoothie	:	4.25	:	300: 300 : 0
+Panda Express: Bowl(1 entree and 1 side)	:	6.20	:	230	:   990 : 0
+Panda Express: Plate(2 entrees and 1 side)	:	7.20	:	380	:1460 : 0
+Panda Express: Bigger Plate(3 entrees and 1 side)	: 	8.70	:  530	:  1930 : 0
+Panda Express: Family Feast( 3 Lg entrees and 2 Lg sides :	32.00	:   230	: 1930	: 0
+Panda Express: Chicken Egg Roll:	2.10	:	200	: 200 : 0
+Panda Express: Veggie Spring Rolls	:	2.10	: 190	:	190 : 0
+Panda Express: A la Carte entrees small:	3.80	:150	:1645 : 0
+Panda Express: A la Carte entrees medium:	7.10	: 150	: 1645 : 0
+Panda Express: A la Carte entrees Lg :	9.80	: 150	: 1645 : 0
+Panda Express: A la Carte premium entrees small:	5.05	:150	:1645 : 0
+Panda Express: A la Carte premium entrees medium:	9.60	:150	:1645 : 0
+Panda Express: A la Carte premium entrees Large:	13.55	:150	:1645 : 0
+Panda Express: A la Carte Side medium	:	2.80	: 80	: 1040 : 0
+Panda Express: A la Carte Side large	:	3.80	:80	: 1040 : 0
+Subway	:	Big Philly Cheesesteak Footlong	:	8.50	:	1000	:	1000: 0
+Subway	:	Black Forest Ham Footlong	:	5.50	:	570	:	570 : 0
+Subway	:	Buffalo Chicken Footlong	: 7.75	:	840	:	840 : 0
+Subway	:	Carved Turkey Footlong	: 7.75	:	670	:	670 : 0
+Subway	:	Chicken & Bacon Ranch Melt Footlong	:	7.75	:	1210	:	1210 : 0
+Subway	:	Cold Cut Combo Footlong	:	5.50	:	710	:	710 : 0
+Subway	:	Italian B.M.T. Footlong	:	6.75	:	810	:	810 : 0
+Subway	:	Meatball Marinara Footlong	:	5.50	:	970	:	970 : 0
+Subway	:	Oven Roasted Chicken Footlong	:	6.75	:	640	:	640 : 0
+Subway	:	Roast Beef Footlong	:	7.75	:	630	:	630 : 0
+Subway	:	Rotisserie-style Chicken Footlong	: 7.75	:	690	:	690 : 0
+Subway	:	Spicy Italian Footlong	:	5.50	:	960	:	960 : 0
+Subway	:	Steak & Cheese Footlong	:	7.75	:	760	:	760 : 0
+Subway	:	Subway Club Footlong	:	7.75	:	630	:	630 : 0
+Subway	:	Sweet Onion Chicken Teriyaki Footlong	:	7.75	:	730	:	730 : 0
+Subway	:	Tuna Footlong	:	6.75	:	960	:	960 : 0
+Subway	:	Turkey Breast Footlong	:	6.75	:	560	:	560 : 0
+Subway	:	Veggie Patty Footlong	:	7.25	:	780	:	780 : 0
+Subway	:	Big Philly Cheesesteak 6-inch	:	5.50	:	500	:	500 : 0
+Subway	:	Black Forest Ham 6-inch	:	3.75	:	290	:	290 : 0
+Subway	:	Buffalo Chicken 6-inch	:	4.75	:	420	:	420 : 0
+Subway	:	Carved Turkey 6-inch	:	4.75	:	330	:	330 : 0
+Subway	:	Chicken & Bacon Ranch Melt 6-inch	:	4.75	:	610	:	610 : 0
+Subway	:	Cold Cut Combo 6-inch	:	3.75	:	360	:	360 : 0
+Subway	:	Italian B.M.T. 6-inch	:	4.25	:	410	:	410 : 0
+Subway	:	Meatball Marinara 6-inch	:	3.75	:	480	:	480 : 0
+Subway	:	Oven Roasted Chicken 6-inch	:	4.75	:	320	:	320 : 0
+Subway	:	Roast Beef 6-inch	:	4.75	:	320	:	320 : 0
+Subway	:	Rotisserie-style Chicken 6-inch	:	4.75	:	350	:	350 : 0
+Subway	:	Spicy Italian 6-inch	:	3.75	:	480	:	480 : 0
+Subway	:	Steak & Cheese 6-inch	:	4.75	:	380	:	380 : 0
+Subway	:	Subway Club 6-inch	:	4.75	:	310	:	310 : 0
+Subway	:	Sweet Onion Chicken Teriyaki 6-inch	:	4.75	:	370	:	370 : 0
+Subway	:	Tuna 6-inch	:	4.25	:	480	:	480 : 0
+Subway	:	Turkey Breast 6-inch	:	4.25	:	280	:	280 : 0
+Subway	:	Veggie Patty 6-inch	:	4.50	:	390	:	390 : 0
+Subway	:	Black Forest Ham Salad	:	5.50	:	110	:	110 : 0
+Subway	:	Carved Turkey Salad	:	6.50	:	160	:	160 : 0
+Subway	:	Chicken & Bacon Ranch Melt Salad	:	6.50	:	540	:	540 : 0
+Subway	:	Cold Cut Combo Salad	:	5.50	:	180	:	180 : 0
+Subway	:	Italian B.M.T. Salad	:	6.00	:	230	:	230 : 0
+Subway	:	Meatball Marinara Salad	:	5.50	:	310	:	310 : 0
+Subway	:	Oven Roasted Chicken Salad	:	6.50	:	150	:	150 : 0
+Subway	:	Roast Beef Salad	:	6.50	:	140	:	140 : 0
+Subway	:	Rotisserie-style Chicken Salad	:	6.50	:	170	:	170 : 0
+Subway	:	Spicy Italian Salad	:	5.50	:	310	:	310 : 0
+Subway	:	Steak & Cheese Salad	:	6.50	:	210	:	210 : 0
+Subway	:	Subway Club Salad	:	6.50	:	140	:	140 : 0
+Subway	:	Sweet Onion Chicken Teriyaki Salad	:	6.50	:	230	:	230 : 0
+Subway	:	Tuna Salad	:	6.00	:	310	:	310 : 0
+Subway	:	Turkey Breast Salad	:	6.00	:	110	:	110 : 0
+Subway	:	Apple Slices - Bag	 :	1.50	:	35	:	35 : 0
+Freshii	:	Greek Yogurt Parfait	:	4.99	:	495	:	495 : 0
+Freshii	:	Bacon, Egg & Cheese Grilled Egg Pocket	:	3.99	:	410	:	410 : 0
+Freshii	:	Ranchero Burrito	:	5.99	:	620	:	620 : 0
+Freshii	:	Spinach, Mushroom & Cheese Grilled Egg Pocket	:	3.99	:	340	:	340 : 0
+Freshii	:	Steak, Egg & Cheese Grilled Breakfast Burrito	:	5.99	:	670	:	670 : 0
+Freshii	:	Fiesta Salad	:	7.99	:	540	:	540 : 0
+Freshii	:	Cobb Salad	:	8.49	:	620	:	620 : 0
+Freshii	:	Zen Salad	:	7.49	:	390	:	390 : 0
+Freshii	:	Metaboost Salad		:	8.49	:	520	:	520 : 0
+Freshii	:	Buffalo Salad	:	7.49	:	250	:	250 : 0
+Freshii	:	Market Salad	:	8.29	:	610	:	610 : 0
+Freshii	:	Fiesta Wrap		:	7.49	:	680	:	680 : 0
+Freshii	:	Cobb Wrap	:	7.99	:	790	:	790 : 0
+Freshii	:	Zen Wrap	:	6.99	:	570	:	570 : 0
+Freshii	:	Metaboost Wrap	:	7.99	:	700	:	700 : 0
+Freshii	:	Buffalo Wrap	:	6.99	:	480	:	480 : 0
+Freshii	:	Market Wrap	:	7.79	:	780	:	780 : 0
+Freshii	:	Buddha's Satay Bowl	:	7.24	:	500	:	500 : 0
+Freshii	:	Teriyaki Twist Bowl	:	6.99	:	520	:	520 : 0
+Freshii	:	Mediterranean Bowl	:	8.49	:	490	:	490 : 0
+Freshii	:	Pesto Bowl	:	7.49	:	570	:	570 : 0
+Freshii	:	Pangoa Bowl	:	7.49	:	780	:	780 : 0
+Freshii	:	Oaxaca Bowl	:	7.49	:	640	:	640 : 0
+Freshii	:	Spicy Lemongrass Soup	:	6.49	:	330	: 330 : 0
+Freshii	:	Southwestern Soup	:	6.99	:	430	:	430 : 0
+Freshii	:	Superfood Soup	:	6.49	:	260	:	260 : 0
+Freshii	:	Baja Burrito	:	6.99	:	660	:	660 : 0
+Freshii	:	Smokehouse Burrito	:	7.99	:	650	:	650 : 0
+Freshii	:	Tex Mex Burrito	:	7.24	:	720	:	720 : 0
+Freshii	:	Khao San	:	6.99	:	660	:	660 : 0
+Freshii	:	Low-Fat Froyo	:	4.99	:	260	:	260 : 0
+Freshii	:	Freshii Green Smoothie	:	5.99	:	260	: 260 : 0
+Freshii	:	Recoverii Smoothie	:	5.99	:	320	: 320 : 0
+Freshii	:	Banana Nut Crunch Smoothie	:	5.99	:	480	: 480 : 0
+Freshii	:	Strawberry Banana Smoothie	:	5.99	:	320	: 320 : 0
+Freshii	:	Green Energy Juice	:	5.99	:	120	:	120 : 0
+Freshii	:	Red Power Juice	:	5.99	:	110	:	110 : 0
+Freshii	:	Mighty Detox Juice	:	5.99	:	130	:	130 : 0
+Freshii	:	Reviive	:	5.99	:	140	:	140 : 0
+Taco Bell	:	Breakfast Crunchwrap - Bacon	:	2.49	:	670	:	670 : 0
+Taco Bell	:	Breakfast Crunchwrap - California	:	2.79	:	630	:	630 : 0
+Taco Bell	:	Breakfast Crunchwrap - Sausage	:	2.49	:	700	:	700 : 0
+Taco Bell	:	Breakfast Crunchwrap - Steak	:	2.79	:	650	:	650 : 0
+Taco Bell	:	Breakfast Soft Taco - Bacon	:	1.99	:	240	:	240 : 0
+Taco Bell	:	Breakfast Soft Taco - Egg & Cheese	:	1.99	:	170	:	170 : 0
+Taco Bell	:	Breakfast Soft Taco - Sausage	:	1.99	:	230	:	230 : 0
+Taco Bell	:	Cheesy Burrito - Bacon	:	1.69	:	490	:	490 : 0
+Taco Bell	:	Cheesy Burrito - Sausage	:	1.69	:	480	:	480 : 0
+Taco Bell	:	Cheesy Burrito - Steak	:	2.49	:	480	:	480 : 0
+Taco Bell	:	Grande Scrambler Burrito - Bacon	:	2.49	:	650	:	650 : 0
+Taco Bell	:	Grande Scrambler Burrito - Sausage	:	2.49	:	640	:	640 : 0
+Taco Bell	:	Grande Scrambler Burrito - Steak	:	3.29	:	630	:	630 : 0
+Taco Bell	:	Grilled Breakfast Burrito - Bacon	:	1.29	:	350	:	350 : 0
+Taco Bell	:	Grilled Breakfast Burrito - Sausage	:	1.29	:	340	:	340 : 0
+Taco Bell	:	7-Layer Burrito	:	2.49	:	430	:	430 : 0
+Taco Bell	:	Bean Burrito	:	1.29	:	370	:	370 : 0
+Taco Bell	:	Beefy 5-Layer Burrito	:	1.69	:	500	:	500 : 0
+Taco Bell	:	Beefy Fritos® Burrito	:	1.00	:	430	:	430 : 0
+Taco Bell	:	Beefy Nacho Loaded Griller	:	1.49	:	370	:	370 : 0
+Taco Bell	:	Black Bean Burrito	:	1.79	:	380	:	380 : 0
+Taco Bell	:	Burrito Supreme® - Beef	:	3.19	:	400	:	400 : 0
+Taco Bell	:	Burrito Supreme® - Chicken	:	3.19	:	380	:	380 : 0
+Taco Bell	:	Burrito Supreme® - Steak	:	3.19	:	390	:	390 : 0
+Taco Bell	:	Cheesy Bean & Rice Burrito	:	1.00	:	420	:	420 : 0
+Taco Bell	:	Chipotle Chicken Loaded Griller	:	1.49	:	340	:	340 : 0
+Taco Bell	:	Combo Burrito	:	2.59	:	450	:	450 : 0
+Taco Bell	:	Loaded Potato Griller	:	1.49	:	410	:	410 : 0
+Taco Bell	:	Quesarito - Beef	:	2.59	:	640	:	640 : 0
+Taco Bell	:	Quesarito - Chicken	:	3.19	:	620	:	620 : 0
+Taco Bell	:	Quesarito - Steak	:	3.49	:	620	:	620 : 0
+Taco Bell	:	Shredded Chicken Burrito	:	2.79	:	400	:	400 : 0
+Taco Bell	:	Smothered Burrito - Beef	:	2.99	:	690	:	690 : 0
+Taco Bell	:	Smothered Burrito - Shredded Chicken	:	3.99	:	640	:	640 : 0
+Taco Bell	:	Smothered Burrito - Steak	:	4.19	:	650	:	650 : 0
+Taco Bell	:	XXL Grilled Stuft Burrito - Beef	:	3.99	:	860	:	860 : 0
+Taco Bell	:	XXL Grilled Stuft Burrito - Chicken	:	4.99	:	810	:	810 : 0
+Taco Bell	:	XXL Grilled Stuft Burrito - Steak	:	5.19	:	820	:	820 : 0
+Taco Bell	:	Beefy Mini Quesadilla	:	1.00	:	210	:	210 : 0
+Taco Bell	:	Chalupa Supreme® - Beef	:	2.49	:	340	:	340 : 0
+Taco Bell	:	Chalupa Supreme® - Chicken	:	3.19	:	340	:	340 : 0
+Taco Bell	:	Chalupa Supreme® - Steak	:	3.39	:	340	:	340 : 0
+Taco Bell	:	Cheese Roll-Up	:	1.00	:	180	:	180 : 0
+Taco Bell	:	Cheesy Gordita Crunch	:	2.69	:	500	:	500 : 0
+Taco Bell	:	Cool Ranch® Doritos® Cheesy Gordita Crunch	:	2.99	:	500	:	500 : 0
+Taco Bell	:	Crunchwrap Supreme®	:	2.99	:	530	:	530 : 0
+Taco Bell	:	Double Tostada	:	1.59	:	270	:	270 : 0
+Taco Bell	:	Fiery Doritos® Cheesy Gordita Crunch	:	2.99	:	490	:	490 : 0
+Taco Bell	:	Fiesta Taco Salad - Beef	:	4.99	:	760	:	760 : 0
+Taco Bell	:	Fiesta Taco Salad - Chicken	:	5.49	:	710	:	710 : 0
+Taco Bell	:	Fiesta Taco Salad - Steak	:	5.99	:	720	:	720 : 0
+Taco Bell	:	Gordita Supreme® - Beef	:	2.49	:	280	:	280 : 0
+Taco Bell	:	Gordita Supreme® - Chicken	:	3.19	:	260	:	260 : 0
+Taco Bell	:	Gordita Supreme® - Steak	:	3.39	:	270	:	270 : 0
+Taco Bell	:	Mexican Pizza	:	3.49	:	550	:	550 : 0
+Taco Bell	:	Meximelt®	:	2.19	:	250	:	250 : 0
+Taco Bell	:	Nacho Cheese Doritos® Cheesy Gordita Crunch	:	2.99	:	490	:	490 : 0
+Taco Bell	:	Nachos BellGrande®	:	3.29	:	750	:	750 : 0
+Taco Bell	:	Nachos Supreme®	:	2.49	:	440	:	440 : 0
+Taco Bell	:	Quesadilla - Cheese	:	2.49	:	460	:	460 : 0
+Taco Bell	:	Quesadilla - Chicken	:	3.39	:	510	:	510 : 0
+Taco Bell	:	Quesadilla - Steak	:	3.59	:	510	:	510 : 0
+Taco Bell	:	Shredded Chicken Mini Quesadilla	:	1.00	:	180	: 180 : 0
+Taco Bell	:	Spicy Tostada	:	1.00	:	210	:	210 : 0
+Taco Bell	:	Triple Layer Nachos	:	1.00	:	320	: 320 : 0
+Taco Bell	:	Cool Ranch® Doritos® Double Decker® Taco	:	1.89	: 320	: 320 : 0
+Taco Bell	:	Cool Ranch® Doritos® Locos Taco	:	1.49	:	170	:	170 : 0
+Taco Bell	:	Cool Ranch® Doritos® Locos Taco Supreme®	:	1.89	:	190	: 190 : 0
+Taco Bell	:	Crunchy Taco	:	1.19	:	170	:	170 : 0
+Taco Bell	:	Crunchy Taco Supreme®	:	1.69	:	190	:	190 : 0
+Taco Bell	:	Double Decker® Taco	:	1.89	:	320	:	320 : 0
+Taco Bell	:	Double Decker® Taco Supreme®	:	2.29	:	340	:	340 : 0
+Taco Bell	:	Fiery Doritos® Double Decker® Taco	:	2.29	:	320	: 320 : 0
+Taco Bell	:	Fiery Doritos® Locos Taco	:	1.49	:	170	:	170 : 0
+Taco Bell	:	Fiery Doritos® Locos Taco Supreme®	:	1.89	:	190	: 190 : 0
+Taco Bell	:	Grilled Steak Soft Taco	:	2.49	:	200	:	200 : 0
+Taco Bell	:	Nacho Cheese Doritos® Double Decker® Taco	:	2.29	:	320	: 320 : 0
+Taco Bell	:	Nacho Cheese Doritos® Locos Taco	:	1.49	:	170	:	170 : 0
+Taco Bell	:	Nacho Cheese Doritos® Locos Taco Supreme®	:	1.89	:	190	: 190 : 0
+Taco Bell	:	Soft Taco - Beef	:	1.19	:	180	:	180 : 0
+Taco Bell	:	Soft Taco - Chicken	:	1.79	:	160	:	160 : 0
+Taco Bell	:	Soft Taco Supreme® - Beef	:	1.69	:	210	:	210 : 0
+Pizza Hut	:	Personal Cheese Pizza	:	5.29	:	600	:	600 : 0
+Pizza Hut	:	Personal Pepperoni Pizza	:	5.49	:	630	:	630 : 0
+Pizza Hut	:	Personal Specialty Pizza	:	5.99	:	920	:	920 : 0
+Pizza Hut	:	Chicken Alfredo Pasta	:	6.99	:	750	:	750 : 0
+Pizza Hut	:	Meaty Marinara Pasta	:	6.99	:	720	:	720 : 0
+Pizza Hut	:	3 pc. Breadsticks	:	3.99	:	480	:	480 : 0
+Pizza Hut	:	5 pc. Breadsticks	:	5.99	:	760	:	760 : 0
+Pizza Hut	:	5 pc. Cheese Sticks	:	5.99	:	920	:	920 : 0
+Pizza Hut	:	10 pc. Cheese Sticks	:	9.99	:	1800	:	1800 : 0
+Pizza Hut	:	5 pc. Cinnamon Sticks	:	5.29	:	990	:	990 : 0
+Pizza Hut	:	10 Pc. Cinnamon Sticks	:	8.99	:	1800	:	1800 : 0
+Pizza Hut	:	6 pc. Buffalo Wings	:	6.49	:	330	:	330 : 0
+Pizza Hut	:	12 pc. Buffalo Wings	:	11.99	:	650	:	650 : 0
+Chick-fil-A : Chicken Biscuit                        : 2.35      : 440 : 440 : 0
+Chick-fil-A : Chicken Biscuit (combo)                : 4.79      : 690 : 890    : 0
+Chick-fil-A : Chick-n-Mini x3                        : 2.39      : 280 : 280     : 0
+Chick-fil-A : Chick-n-Mini x3 (combo)                : 4.85      : 530 : 730 : 0
+Chick-fil-A : Chich-n-Mini x4                        : 3.09      : 370 : 370     : 0
+Chick-fil-A : Chick-n-Mini x4 (combo)                : 5.55      : 600 : 800  : 0
+Chick-fil-A : Hash Browns                            : 1.09      : 240 : 240     : 0
+Chick-fil-A : Hot Buttered Biscuit                   : 0.95      : 310 : 310 : 0
+Chick-fil-A : Coffee (regular or decaf)              : 2.09      : 190 : 190 : 0
+Chick-fil-A : Iced Coffee (small)                    :  2.49     : 160 : 160    : 0
+Chick-fil-A : Iced Coffee (large)                    : 2.85      : 200 : 200     : 0
+Chick-fil-A : Chicken Sandwich                       : 3.45      : 440 : 440     : 0
+Chick-fil-A : Chicken Sandwich (combo)               : 6.39      : 800 : 1000 : 0
+Chick-fil-A : Chicken Nugget x8                      : 3.45      : 270 : 270     : 0
+Chick-fil-A : Chicken Nugget x8 (combo)              : 6.39      : 660 : 860 : 0
+Chick-fil-A : Chicken Nugget x12                     : 4.95      : 410 : 410    : 0
+Chick-fil-A : Chicken Nugget x12 (combo)             : 7.95      : 750 : 950 : 0
+Chick-fil-A : Chick-n-Strip x3                       : 3.69      : 360 : 560    : 0
+Chick-fil-A : Chick-n-Strip x3 (combo)               : 6.69      : 720 : 920 : 0
+Chick-fil-A : Chick-n-Strip x4                       : 4.79      : 470 : 470    : 0
+Chick-fil-A : Chick-n-Strip x4 (combo)               : 7.75      : 840 : 1040: 0
+Chick-fil-A : Grilled Chicken Sandwich               : 4.85      : 320 : 320 : 0
+Chick-fil-A : Grilled Chicken Sandwich (combo)       : 7.75      : 750 : 950  : 0
+Chick-fil-A : Spicy Chicken Sandwich                 : 3.69      : 490 : 490: 0
+Chick-fil-A : Spicy Chicken Sandwich (combo)         : 6.65      : 840 : 1040: 0
+Chick-fil-A : Chicken Deluxe Sandwich                : 3.95      : 500 : 500: 0
+Chick-fil-A : Chicken Deluxe Sandwich (combo)        : 6.85      : 870 : 1070: 0
+Chick-fil-A : Spicy Chicken Deluxe Sandwich          : 4.19      : 570 : 570: 0
+Chick-fil-A : Spicy Chicken Deluxe Sandwich (combo)  : 7.09      : 900 : 1090: 0
+Chick-fil-A : Waffle Potato Fries (medium)           : 1.79      : 400 : 400: 0
+Chick-fil-A : Waffle Potato Fries (large)            : 1.99      : 520 : 520: 0
+Chick-fil-A : Grilled Market Salad                   : 7.85      : 200 : 200: 0
+Chick-fil-A : Grilled Chicken Cool Wrap              : 5.65      : 340 : 340: 0
+Chick-fil-A : Fresh-Squeezed Lemonade (medium)       : 1.85      : 240 : 240: 0
+Chick-fil-A : Fresh-Squeezed Lemonade (large)        : 2.19      : 340 : 340: 0
+Chick-fil-A : Freshly-Brewed Tea (meduim)            : 1.69      : 140 : 140: 0
+Chick-fil-A : Freshly-Brewed Tea (large)             : 2.29      : 320 : 320: 0
+Chick-fil-A : Soft Drink (meduim)                    : 1.69      : 0   : 200: 0
+Chick-fil-A : Soft Drink (large)                     : 1.95      : 0   : 290: 0
+Chick-fil-A : Milkshake - Cookies & Cream (small)    : 1.05      : 570 : 570: 0
+Chick-fil-A : Milkshake - Cookies & Cream (large)    : 3.40      : 670 : 670: 0
+Chick-fil-A : Milkshake - Chocolate (small)          : 1.05      : 540 : 540: 0
+Chick-fil-A : Milkshake - Chocolate (large)          : 3.40      : 720 : 720: 0
+Chick-fil-A : Milkshake - Strawberry (small)         : 1.05      : 520 : 520: 0
+Chick-fil-A : Milkshake - Strawberry (large)         : 3.40      : 730 : 730 : 0
+Chick-fil-A : Milkshake - Vanilla (small)            : 1.05      : 500 : 500: 0
+Chick-fil-A : Milkshake - vanilla (large)            : 3.40      : 620 : 620   : 0
+Chili's	:	Honey-Chipotle Crispers & Waffles	:	6.29	:	920	:	920 : 0
+Chili's	:	Loaded White Queso	:	7.49	:	1630	:	1630 : 0
+Chili's	:	Crispy Asparagus	:	6.59	:	840	:	840 : 0
+Chili's	:	Fried Pickles	:	5.39	:	670	:	670 : 0
+Chili's	:	Crispy Cheddar Bites	:	6.49	:	990	:	990 : 0
+Chili's	:	Southwestern Eggrolls	:	8.69	:	800	:	800 : 0
+Chili's	:	Grass-Fed Sunrise Burger	:	11.59	:	1510	:	1510 : 0
+Chili's	:	Ultimate Bacon Burger	:	11.59	:	1410	:	1410 : 0
+Chili's	:	Guacamole Burger	:	9.99	:	1240	:	1240 : 0
+Chili's	:	Honey-Chipotle Shrimp & Serloin	:	14.49	:	790	:	790 : 0
+Chili's	:	Prime Rib Tacos	:	11.59	:	1020	:	1020 : 0
+Chili's	:	Oreo Topped Molten Cake	:	7.49	:	1080	:	1080 : 0
+Chili's	:	Margarita Grilled Chicken	:	11.89	:	610	:	610 : 0
+Chili's	:	Spicy Chile Chicken	:	11.69	:	420	:	420 : 0
+Chili's	:	Ancho Salmon	:	14.99	:	590	:	590 : 0
+Chili's	:	Prime Rib Fresh Mex Bowl	:	11.69	:	860	:	860 : 0
+Chili's	:	Margarita Chicken Fresh Mex Bowl	:	9.99	:	950	:	950 : 0
+Chili's	:	Bacon Ranch Quesadilla	:	10.59	:	1850	:	1850 : 0
+Chili's	:	Signature Boneless Wings	:	9.89	:	1160	:	1160 : 0
+Chili's	:	Signature Bone-in Wings	:	9.99	:	960	:	960 : 0
+Chili's	:	Fresh Guacamole	:	5.59	:	1190	:	1190 : 0
+Market 810 2 Go	:	Breakfast Sandwich	:	8.30	:	306	:	306 : 0
+Market 810 2 Go	:	Breakfast/Lunch Box	:	8.30	:	500	:	500 : 0
+Market 810 2 Go	:	Uppercut	:	8.30	:	450	:	450 : 0
+Market 810 2 Go	:	Grab & Go Sandwich	:	8.30	:	320	:	320 : 0
+Market 810 2 Go	:	Maui Bento Box	:	16.60	:	240	:	240 : 0
+Market 810 2 Go	:	Chicken	Wings	:	8.30	:	320	:	320 : 0
+Market 810 2 Go	:	Cheese Pizza & 2 liter Soda	:	16.60	:	582	:	582 : 0
+Market 810 2 Go	:	Pepperoni Pizza & 2 liter Soda	:	16.60	:	340	:	340 : 0
+Market 810 2 Go	:	Vegetable Pizza & 2 liter Soda	:	16.60	:	480	:	480 : 0
+Market 810	:	Pizza	:	8.30	:	250	:	250 : 0
+Market 810	:	Salad	:	8.30	:	150	:	150 : 0
+Market 810	:	Cereal	:	8.30	:	100	:	100 : 0
+Cary Street Market and Deli	:	7" Personal	Cheese Pizza	:	5.59	:	635	:	635 : 0
+Cary Street Market and Deli	:	7" Personal	Pepperoni Pizza	:	5.99	:	712	:	712 : 0
+Cary Street Market and Deli	:	7" Personal Margherita Pizza	:	5.99	:	581	:	581 : 0
+Cary Street Market and Deli	:	7" Personal Sausage Pizza	:	5.99	:	737	:	737 : 0
+Cary Street Market and Deli	:	Cavatappi Alfredo & Broccoli Pasta Bowl	:	6.99	:	325	:	325 : 0
+Cary Street Market and Deli	:	Cavatappi Marinara & Spinach Pasta Bowl	:	6.99	:	241	:	241 : 0
+Cary Street Market and Deli	:	Cheeseburger	:	7.99	:	770	:	770 : 0
+Cary Street Market and Deli	:	Veggie Burger	:	7.99	:	338	:	338 : 0
+Cary Street Market and Deli	:	Turkey Burger	:	7.99	:	590	:	590 : 0
+Cary Street Market and Deli	:	Chicken Tenders	:	8.29	:	680	:	680 : 0
+Cary Street Market and Deli	:	French Fries	:	1.99	:	170	:	170 : 0
+Cary Street Market and Deli	:	Made to Order Sandwhich	:	6.99	:	1259	:	1259 : 0

@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_rest_timings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/Black"
+    tools:context="com.vadrevua.vcudining.restTimings">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:text="VCU Dining Services"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView5"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textStyle="normal|bold"
+                    android:textSize="38sp"
+                    android:textAllCaps="false" />
+
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView7" />
+
+                <TextView
+                    android:text="Bleecker St."
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView8"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7am - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView9"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7am - 3pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView10"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat - Sun: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView11"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView12" />
+
+                <TextView
+                    android:text="Cary Street Market and Deli"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView14"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 10:30am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView15"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 10:30am - 7pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView16"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat - Sun: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView17"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView18" />
+
+                <TextView
+                    android:text="Chick-fil-A"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView19"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7:30am - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView20"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7:30am - 5pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView21"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: 11am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView22"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView1"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView23" />
+
+                <TextView
+                    android:text="Chili’s"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView24"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 11am - 11pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView25"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri - Sat: 11am - 12am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView26"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: 11am - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView27"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView28" />
+
+                <TextView
+                    android:text="Croutons, Salads and Wraps"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView29"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Sun: 10:30am - 1am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView30"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView33" />
+
+                <TextView
+                    android:text="Einstein Bros. Bagels - MCV Campus"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView34"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon – Fri: 5:30am-10:30pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView35"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat – Sun: 6am-9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView36"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView38" />
+
+                <TextView
+                    android:text="Einstein Bros. Bagels - Shafer Court Dining Center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView39"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView40"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7am - 3pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView41"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat - Sun: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView42"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView43" />
+
+                <TextView
+                    android:text="Freshii"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView44"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 10:30am - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView45"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 10:30am - 5pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView46"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: 11am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView47"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView2"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView48" />
+
+                <TextView
+                    android:text="Harris Hall Convenience"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView49"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7:30am - 5pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView50"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7:30am - 3pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView51"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat - Sun: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView52"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView53" />
+
+                <TextView
+                    android:text="iHOP Express"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView54"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Wed: 7am - 1am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView55"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Thurs - Sat: 7am - 3am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView56"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: 7am - 1am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView57"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView58" />
+
+                <TextView
+                    android:text="Jonah’s – a culinary emporium"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView59"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView60"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7am - 7pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView61"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: 10:30am - 7pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView62"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: 10:30am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView3"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView63" />
+
+                <TextView
+                    android:text="Market 810"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView64"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7am - Midnight"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView65"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView66"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat - Sun: 10:30am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView67"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView68" />
+
+                <TextView
+                    android:text="Panda Express"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView69"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+                <TextView
+                    android:text="Mon - Sun: 10:30am - 1am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView99999"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView73" />
+
+                <TextView
+                    android:text="Pizza Hut Express"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView74"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7:30am - 11:30pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView75"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7am - 3pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView76"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView77"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: 2pm - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView4"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView78" />
+
+                <TextView
+                    android:text="POD Market"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView79"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Fri: 7:30am - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView80"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: 11am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView81"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: 2pm - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView82"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView104" />
+                <TextView
+                    android:text="Raising Cane's"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView105"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon -Sun: 10:30am - 1am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView1201"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView110" />
+                <TextView
+                    android:text="Starbucks Coffee at Cabell Library"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView111"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7am - 2am"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView112"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7am - 4pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView113"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: 9am - 6pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView114"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: 9am - 11pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView115"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView116" />
+
+                <TextView
+                    android:text="Starbucks Coffee at Cary and Belvidere"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView117"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 7am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView118"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 7am - 7pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView119"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat - Sun: 10am - 4pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView120"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView122" />
+                <TextView
+                    android:text="Starbucks Coffee at Jonah L. Larrick Student Center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView123"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Fri: 7am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView124"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat - Sun: 9am - 4pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView125"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView128" />
+                <TextView
+                    android:text="Subway"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView129"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Fri: 7:30am - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView130"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView131"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: 2pm - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView132"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView200" />
+                <TextView
+                    android:text="Taco Bell"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView145"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon - Thurs: 10:30am - 10pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView5775"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Fri: 10:30am - 5pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView755"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat: 11am - 9pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView1338"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sun: CLOSED"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView1383"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="TextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView139" />
+
+                <TextView
+                    android:text="Wendy’s"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView134"
+                    android:textColor="@color/Gold"
+                    android:textAlignment="center"
+                    android:textSize="18sp"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="Mon-Fri: 6:30am-11pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView135"
+                    android:textSize="14sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+
+                <TextView
+                    android:text="Sat-Sun: 7am – 11pm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView136"
+                    android:textAlignment="center"
+                    android:textColor="@color/Gold" />
+            </LinearLayout>
+            </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

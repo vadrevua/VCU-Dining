@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vadrevua.vcudining">
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/rsz_final"
+        android:label="VCU Dining"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".restTimings" />
+        <activity android:name=".searchedActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".updatedSearchActivity" />
+        <activity android:name=".addressActivity" />
+        <activity android:name=".favoriteActivity"></activity>
+    </application>
+
+</manifest>

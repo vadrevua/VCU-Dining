@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="Allergen information"
+        android:key="allergies"
+        android:summary="Turn switch on if you want to display allergen information for food items"
+        android:defaultValue="false">
+    </SwitchPreference>
+    <EditTextPreference android:title="Calorie range max"
+        android:key="calories1"
+        android:summary="Type your preferred max calories"
+        android:inputType="number"
+        android:defaultValue="500">
+    </EditTextPreference>
+    <ListPreference android:title="Search range"
+        android:key="searchRange"
+        android:summary="Enter your preferred search range (in miles)"
+        android:defaultValue="10"
+        android:entries="@array/miles_array"
+        android:entryValues="@array/miles_array">
+    </ListPreference>
+</PreferenceScreen>

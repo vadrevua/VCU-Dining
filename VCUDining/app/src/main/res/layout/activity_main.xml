@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/Black"
+
+    tools:context="com.vadrevua.vcudining.MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/usethis"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:maxLines="1"
+        android:inputType="text"
+        android:id="@+id/restaurantSearch"
+        android:layout_width="30dp"
+        android:layout_height="40dp"
+        android:layout_alignEnd="@+id/imageView6"
+        android:layout_alignStart="@+id/imageView6"
+        android:layout_below="@+id/imageView6"
+        android:layout_marginTop="26dp"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        tools:text="Search" />
+
+    <Button
+        android:id="@+id/browseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/restaurantSearch"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:text="START SEARCH" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="locations"
+        android:layout_alignBaseline="@+id/timingButton"
+        android:layout_alignBottom="@+id/timingButton"
+        android:layout_alignEnd="@+id/restaurantSearch"
+        android:layout_marginEnd="16dp" />
+
+    <Button
+        android:id="@+id/timingButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:text="OPEN HOURS"
+        android:layout_below="@+id/browseButton"
+        android:layout_alignStart="@+id/restaurantSearch"
+        android:layout_marginStart="10dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@drawable/ram"
+        android:layout_below="@+id/addButton"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/favsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/imageView7"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="20dp"
+        android:text="favorites" />
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageView7"
+        android:layout_marginStart="24dp"
+        android:text="SETTINGS" />
+
+</RelativeLayout>
